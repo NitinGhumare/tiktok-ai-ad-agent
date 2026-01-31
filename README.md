@@ -232,4 +232,10 @@ This project demonstrates how to design a **robust AI-driven workflow** that rea
 - External API failures
 - Structured request/response handling
 
-The emphasis is on **engineering correctness, clarity, and production realism**, making this project suitable for interviews, system design discussions, and real-world inspiration.
+The emphasis is on **engineering correctness, clarity, and production realism**, making this project suitable for interviews, system design discussions, and real-world inspiration. 
+
+## 🎥 Demo Video
+A 5-minute walkthrough covering architecture, rule enforcement, API error handling, and a successful demo flow:
+
+👉 https://drive.google.com/file/d/14-mAyUOy-ErJokPUbIFp9Deg7r1tnkyv/view?usp=drive_link
+
